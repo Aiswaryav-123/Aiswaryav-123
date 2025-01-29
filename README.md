@@ -33,14 +33,11 @@ Here are some ideas to get you started:
 ---
 ### Projects
 
-## 🚀 Main Projects
 
-## 🚀 Main Projects
-
-| 🔹 **Automatic News Generation** |
+| 🔹 **Result Analysis System** |
 |:--:|
 | NLP-based system for tracking and classifying news |
-| [🔗 View Repository](https://github.com/yourusername/automatic-news-generation) |
+| [🔗 View Repository](https://github.com/Aiswaryav-123/result) |
 
 | 🔹 **Skin Disease Detection** |
 |:--:|
