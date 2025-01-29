@@ -35,6 +35,27 @@ Here are some ideas to get you started:
 
 ## 🚀 Main Projects
 
-- **[Automatic News Generation](https://github.com/Aiswaryav-123/result)** - NLP-based system for tracking and classifying news from official government sites.
+## 🚀 Main Projects
+
+| 🔹 **Automatic News Generation** |
+|:--:|
+| NLP-based system for tracking and classifying news |
+| [🔗 View Repository](https://github.com/yourusername/automatic-news-generation) |
+
+| 🔹 **Skin Disease Detection** |
+|:--:|
+| Genetic Algorithm Optimized Stacking for diagnosis |
+| [🔗 View Repository](https://github.com/yourusername/skin-disease-detection) |
+
+| 🔹 **Image Character Recognition** |
+|:--:|
+| CNN-based handwritten character recognition |
+| [🔗 View Repository](https://github.com/yourusername/image-character-recognition) |
+
+| 🔹 **Loan Prediction System** |
+|:--:|
+| Machine learning model for predicting loan approvals |
+| [🔗 View Repository](https://github.com/yourusername/loan-prediction) |
+
 
 
