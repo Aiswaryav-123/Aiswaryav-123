@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact 
-[![Email](https://img.shields.io/badge/Email-seetha@example.com-red?style=flat-square&logo=gmail)](mailto:seetha@example.com)
+📧 Contact: <a href="mailto:seetha@example.com">seetha@example.com</a>
+
 
