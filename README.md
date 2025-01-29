@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 | [🔗🔹 **Result Analysis System**](https://github.com/Aiswaryav-123/Project-RAS) |
 |:--:|
+|:--:|
 | Web app that automates student result analysis and reporting. |
 
 
@@ -56,16 +57,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Main Projects
 
-| 🔹 **Automatic News Generation** | 🔹 **Skin Disease Detection** |
-|:--:|:--:|
-| NLP-based system for tracking and classifying news | Genetic Algorithm Optimized Stacking for diagnosis |
-| [🔗 View Repo](https://github.com/yourusername/automatic-news-generation) | [🔗 View Repo](https://github.com/yourusername/skin-disease-detection) |
-
-| 🔹 **Image Character Recognition** | 🔹 **Loan Prediction System** |
-|:--:|:--:|
-| CNN-based handwritten character recognition | Machine learning model for predicting loan approvals |
-| [🔗 View Repo](https://github.com/yourusername/image-character-recognition) | [🔗 View Repo](https://github.com/yourusername/loan-prediction) |
 
 
