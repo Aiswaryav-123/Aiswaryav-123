@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔗 Contact 
+## 🔗 Contact Me
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail)](mailto:aiswaryav7902@gmail.com)
 
