@@ -31,31 +31,4 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-### Projects
-
-
-| [🔗🔹 **Result Analysis System**](https://github.com/Aiswaryav-123/Project-RAS) |
-|:--:|
-| Web app that automates student result analysis and reporting. |
-
-
-| 🔹 **Skin Disease Detection** |
-|:--:|
-| Genetic Algorithm Optimized Stacking for diagnosis |
-| [🔗 View Repository](https://github.com/yourusername/skin-disease-detection) |
-
-| 🔹 **Image Character Recognition** |
-|:--:|
-| CNN-based handwritten character recognition |
-| [🔗 View Repository](https://github.com/yourusername/image-character-recognition) |
-
-| 🔹 **Loan Prediction System** |
-|:--:|
-| Machine learning model for predicting loan approvals |
-| [🔗 View Repository](https://github.com/yourusername/loan-prediction) |
-
----
-
-
-
 
