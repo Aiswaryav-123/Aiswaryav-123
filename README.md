@@ -1,4 +1,4 @@
-# Hii..👋 I'am Aiswarya
+# Hii...👋 I'am Aiswarya...
 
 <!--
 **Aiswaryav-123/Aiswaryav-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contact 
+## 🔗 Contact 
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail)](mailto:aiswaryav7902@gmail.com)
 
