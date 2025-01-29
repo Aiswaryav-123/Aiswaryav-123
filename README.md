@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 | 🔹 **Result Analysis System** |
 |:--:|
 | NLP-based system for tracking and classifying news |
-| [🔗 View Repository](https://github.com/Aiswaryav-123/result) |
+| [🔗 View Repository](https://github.com/Aiswaryav-123/Project-RAS) |
 
 | 🔹 **Skin Disease Detection** |
 |:--:|
