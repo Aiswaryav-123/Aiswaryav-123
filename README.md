@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ### Projects
 
 
-| 🔹 **Result Analysis System** |
+| [🔗🔹 **Result Analysis System**](https://github.com/Aiswaryav-123/Project-RAS) |
 |:--:|
-| NLP-based system for tracking and classifying news |
-| [🔗 View Repository](https://github.com/Aiswaryav-123/Project-RAS) |
+| Web app that automates student result analysis and reporting. |
+
 
 | 🔹 **Skin Disease Detection** |
 |:--:|
