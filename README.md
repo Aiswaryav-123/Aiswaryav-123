@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact 
-[!(https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail)](mailto:aiswaryav7902@gmail.com)
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail)](mailto:aiswaryav7902@gmail.com)
 
 
 
