@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 | [🔗🔹 **Result Analysis System**](https://github.com/Aiswaryav-123/Project-RAS) |
 |:--:|
-|:--:|
 | Web app that automates student result analysis and reporting. |
 
 
