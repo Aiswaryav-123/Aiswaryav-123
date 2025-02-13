@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail)](mailto:aiswaryav7902@gmail.com)
 
+[![Gmail](https://img.shields.io/badge/Gmail-aiswaryav7902@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryav7902@gmail.com)
+
 ---
 ### 🌟 What I Work With
 
